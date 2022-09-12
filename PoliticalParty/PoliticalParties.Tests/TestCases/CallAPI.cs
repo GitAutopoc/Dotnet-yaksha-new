@@ -46,6 +46,9 @@ namespace PoliticalParties.Tests.TestCases
             return status;
         }
 
+        
+        
+        
         public static string GetCurrentMethodName([System.Runtime.CompilerServices.CallerMemberName] string name = "")
         {
             return name;
