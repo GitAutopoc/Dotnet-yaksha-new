@@ -50,6 +50,9 @@ namespace PoliticalParties.Tests.TestCases
         {
             return name;
         }
-
+        
+        public static string TestMethodForAutoMerge(){
+            //Test auto merge for collaborative assessment.
+        }
     }
 }
