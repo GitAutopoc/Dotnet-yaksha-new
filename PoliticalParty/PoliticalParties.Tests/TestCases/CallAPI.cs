@@ -52,7 +52,7 @@ namespace PoliticalParties.Tests.TestCases
         }
         
         public static string TestMethodForAutoMerge(){
-            //Test auto merge for collaborative assessment.
+            //Test auto merge for collaborative assessment - conflict check.
         }
     }
 }
